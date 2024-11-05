@@ -72,7 +72,7 @@ To test the application on your local machine:
 3. Open `http://localhost:8000/bot.php` to test the interface for creating and managing temp emails.
 
 ---
-
+Also Create A admin **Folder** And Under It Create A Another Folder **Users** 
 ## 🌐 Hosting Options
 
 To deploy this application online, use any of the following PHP-compatible hosting options:
